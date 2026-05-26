@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this anonymous review artifact, please cite the final paper after publication."
+title: "LLM-CLP: Source-Decoupled Counterfactual Robustness for Toxicity Classification with LLM-Generated Invariance Signals"
+authors:
+  - family-names: "Anonymous"
+    given-names: "Authors"
+year: 2026
+license: MIT

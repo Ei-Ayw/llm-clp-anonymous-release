@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+outputs/
+data/causal_fair/*.parquet
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.bin
+checkpoints/*.safetensors
+*.log
+.DS_Store
